@@ -1,1 +1,2 @@
 # JavaScript-Exercise
+JavaScript-Exercise is a repository containing a collection of programming exercises using basic JavaScript. This project was created as part of the learning process and strengthening of programming logic through the implementation of various mathematical formulas, especially in calculating the area and volume of flat and spatial shapes.
