@@ -16,12 +16,12 @@ This repository contains a collection of my **JavaScript exercises and practice 
 
 Files are organized by topic or lesson. Examples may include:
 
-/variables
-/functions
-/loops
-/dom-manipulation
-/events
-/arrays-objects
+- /variables
+- /functions
+- /loops
+- /dom-manipulation
+- /events
+- /arrays-objects
 
 Each folder typically contains `.js` files or HTML files with embedded JavaScript.
 
